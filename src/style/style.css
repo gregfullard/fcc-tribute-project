@@ -1,0 +1,49 @@
+body {
+    background-color: #393939;
+    margin: 0;
+    font-family: 'Bellota', cursive;
+  }
+  .header-text {
+    text-align: center;
+  }
+
+  .header-section {
+    background-color: #939393;
+    padding: 20px;
+    color: #EBEBEB;
+  }
+
+  .photo-section {
+    text-align: center;
+    background-color: #393939;
+    color: #EBEBEB;
+    padding: 20px;
+  }
+
+  .content-section {
+    background-color: #939393;
+    color: #EBEBEB;
+  }
+
+  .responsive-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .centred-image {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    padding-bottom: 20px;
+  }
+
+  .body-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+  }
+
+  .content-section {
+      padding: 10px;
+      text-align: justify;
+  }
